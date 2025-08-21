@@ -1,1 +1,2 @@
-# mta-sts1
+# mta-sts
+MTA-STS policy for Affluent.email
