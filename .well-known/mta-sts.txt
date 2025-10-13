@@ -1,6 +1,4 @@
 version: STSv1
 mode: enforce
-mx: mx.zoho.in
-mx: mx2.zoho.in
-mx: mx3.zoho.in
-max_age: 31536000
+mx: mx1.millionaire.email
+max_age: 86400
