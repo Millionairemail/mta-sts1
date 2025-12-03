@@ -1,4 +1,4 @@
 version: STSv1
 mode: enforce
-mx: mx1.millionaire.email
+mx: mail.millionaire.email
 max_age: 86400
